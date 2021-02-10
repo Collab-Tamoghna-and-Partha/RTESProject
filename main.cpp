@@ -1,5 +1,5 @@
 /* 	File: 		main.c
-* 	Author: 	TAMOGHNA CHAKRABORTY, PARTHA PRATIM NATH
+* 	Author: 	TAMOGHNA CHAKRABORTY&PARTHA PRATIM NATH
 */
 
 /* system imports */
